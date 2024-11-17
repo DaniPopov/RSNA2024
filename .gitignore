@@ -4,3 +4,8 @@ spine_detection/
 yolov8x.pt
 models/
 metrics/
+*.ipynb
+
+# Allow only specific files
+!*.zip
+!plots/**/*
