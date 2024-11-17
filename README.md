@@ -12,9 +12,15 @@ The object of the project is to take a dataset and explore it gain insghist and 
 [Project Notebook](Project.ipynb)
 
 [License](LICENSE)
+## Model
 
-## Project Structure
 
+## Model Results 
+
+Training metrics fold 1
+![Training Metrics Fold 1](plots/training_metrics/training_metrics_fold_1.png)
+
+![Training HeatMap Fold 1](plots/heatmaps/heatmap_fold_1.png)
 
 Let's dive in! 🤿
 
