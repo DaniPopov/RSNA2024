@@ -3,3 +3,4 @@ data/
 spine_detection/
 yolov8x.pt
 models/
+metrics/
