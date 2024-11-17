@@ -12,6 +12,9 @@ The object of the project is to take a dataset and explore it gain insghist and 
 [Project Notebook](Project.ipynb)
 
 [License](LICENSE)
+
+Let's dive in! 🤿
+
 ## Model
 
 
@@ -22,5 +25,4 @@ Training metrics fold 1
 
 ![Training HeatMap Fold 1](plots/heatmaps/heatmap_fold_1.png)
 
-Let's dive in! 🤿
 
