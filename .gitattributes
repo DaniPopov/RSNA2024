@@ -11,5 +11,3 @@ large filter=lfs diff=lfs merge=lfs -text
 models/**/*.pth filter=lfs diff=lfs merge=lfs -text
 models/**/*.pt filter=lfs diff=lfs merge=lfs -text
 Project.ipynb filter=lfs diff=lfs merge=lfs -text
-*.pth filter=lfs diff=lfs merge=lfs -text
-*.pt filter=lfs diff=lfs merge=lfs -text
