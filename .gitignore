@@ -3,5 +3,3 @@ data/
 spine_detection/
 yolov8x.pt
 models/
-!models/**/*.pth
-!models/**/*.pt
