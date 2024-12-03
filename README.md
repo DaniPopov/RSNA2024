@@ -20,9 +20,37 @@ Let's dive in! 🤿
 
 ## Model Results 
 
-Training metrics fold 1
-![Training Metrics Fold 1](plots/training_metrics/training_metrics_fold_1.png)
+### Model 1 🤖 (Densenet169)
 
-![Training HeatMap Fold 1](plots/heatmaps/heatmap_fold_1.png)
+#### Training metrics fold 1
+<img src="images/model_1/plots/training_metrics/training_metrics_fold_1.png" alt="Training Metrics Fold 1" width="600"/>
 
+<img src="images/model_1/plots/heatmaps/heatmap_fold_1.png" alt="Training HeatMap Fold 1" width="600"/>
+
+#### Training metrics fold 2
+<img src="images/model_1/plots/training_metrics/training_metrics_fold_2.png" alt="Training Metrics Fold 2" width="600"/>
+
+<img src="images/model_1/plots/heatmaps/heatmap_fold_2.png" alt="Training HeatMap Fold 2" width="600"/>
+
+#### Training metrics fold 3
+<img src="images/model_1/plots/training_metrics/training_metrics_fold_3.png" alt="Training Metrics Fold 3" width="600"/>
+
+<img src="images/model_1/plots/heatmaps/heatmap_fold_3.png" alt="Training HeatMap Fold 3" width="600"/>
+
+#### Model 2 🤖🤖
+
+#### Training metrics fold 1
+<img src="images/model_2/plots/training_metrics/training_metrics_fold_1.png" alt="Training Metrics Fold 1" width="600"/>
+
+<img src="images/model_2/plots/heatmaps/heatmap_fold_1.png" alt="Training HeatMap Fold 1" width="600"/>
+
+#### Training metrics fold 2
+<img src="images/model_2/plots/training_metrics/training_metrics_fold_2.png" alt="Training Metrics Fold 2" width="600"/>
+
+<img src="images/model_2/plots/heatmaps/heatmap_fold_2.png" alt="Training HeatMap Fold 2" width="600"/>
+
+#### Training metrics fold 3
+<img src="images/model_2/plots/training_metrics/training_metrics_fold_3.png" alt="Training Metrics Fold 3" width="600"/>
+
+<img src="images/model_2/plots/heatmaps/heatmap_fold_3.png" alt="Training HeatMap Fold 3" width="600"/>
 
